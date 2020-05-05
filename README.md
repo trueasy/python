@@ -1,2 +1,2 @@
 # python
-firt learn
+first learn
